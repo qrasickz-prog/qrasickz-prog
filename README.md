@@ -1,56 +1,73 @@
-# <a name="top"></a>
-<div align="center">
-  <a href="[ПОСИЛАННЯ НА ВАШ САЙТ, НАПР. https://qrasickz.ddns.net]">
-    <img src="https://github.com/user-attachments/assets/a98b6ee3-8d67-4054-8f3f-9168a62d456d" alt="Project Showcase Screenshot">
+<div id="top"></div>
+
+<p align="center">
+  <a href="https://qrasickz.ddns.net" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a98b6ee3-8d67-4054-8f3f-9168a62d456d" alt="Project Live Preview" width="100%">
   </a>
-</div>
+</p>
 
 <div align="center">
-  <h1 align="center">CSS Styles Showcase</h1>
-  <p align="center">
-    <i>An interactive encyclopedia of modern and classic CSS styles, crafted for inspiration and practical reference.</i>
-    <br />
-    <br />
-    <a href="[ПОСИЛАННЯ НА ВАШ САЙТ, НАПР. https://qrasickz.ddns.net]"><strong>Launch Live Demo »</strong></a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://github.com/[ВАШЕ_ІМ'Я]/[НАЗВА_РЕПОЗИТОРІЮ]/issues">Report a Bug</a>
+  <h1>CSS Styles Showcase</h1>
+  <p>
+    An interactive visual library of modern and classic CSS styles, built for inspiration and reference.
   </p>
-</div>
 
-<div align="center">
+  <p>
+    <a href="#-about-the-project"><strong>About</strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="#-featured-styles"><strong>Styles</strong></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://qrasickz-prog.github.io"><strong>Launch Demo »</strong></a>
+  </p>
 
-[![Status](https://img.shields.io/badge/status-live-brightgreen?style=for-the-badge&logo=icloud)]([ПОСИЛАННЯ НА ВАШ САЙТ])
-[![License](https://img.shields.io/github/license/[ВАШЕ_ІМ'Я]/[НАЗВА_РЕПОЗИТОРІЮ]?style=for-the-badge&color=blue)](LICENSE.txt)
-[![GitHub Stars](https://img.shields.io/github/stars/[ВАШЕ_ІМ'Я]/[НАЗВА_РЕПОЗИТОРІЮ]?style=for-the-badge&logo=github)](https://github.com/[ВАШЕ_ІМ'Я]/[НАЗВА_РЕПОЗИТОРІЮ]/stargazers)
-
+  <p>
+    <img src="https://img.shields.io/badge/Status-Live_&_Online-brightgreen?style=flat" alt="Status">
+    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License">
+    <img src="https://img.shields.io/github/stars/qrasickz-prog/qrasickz-prog.github.io?style=flat&logo=github" alt="Stars">
+  </p>
 </div>
 
 ---
 
 ### 🚀 About The Project
 
-This project serves as a visual playground for web developers and designers, showcasing over 20 distinct CSS styling techniques in one place. From the sleek feel of **Glassmorphism** to the raw energy of **Brutalism**, each card is a self-contained demonstration designed to be both educational and inspiring.
+This project is a curated visual collection of over 20 distinct CSS styling techniques. It serves as a playground for developers and a quick reference guide for designers, demonstrating the power and versatility of modern CSS. Each style is presented in a self-contained card, making it easy to inspect and understand the underlying code.
 
-The primary goal is to provide a quick, hands-on reference for various aesthetic approaches, helping to accelerate creative brainstorming and simplify the implementation of complex styles.
+<br>
 
-#### Core Technologies Used
-*   **HTML5**
-*   **CSS3** (including Flexbox, Grid, Animations)
-*   **Google Fonts**
-*   **Bootstrap Icons**
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p><strong>Core Features</strong></p>
+      <ul>
+        <li>Over 20 unique style demonstrations</li>
+        <li>Pure HTML & CSS implementation</li>
+        <li>Fully responsive design</li>
+        <li>Easy-to-navigate grid layout</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <p><strong>Technologies Used</strong></p>
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3 (Flexbox, Grid, Animations)</li>
+        <li>Google Fonts</li>
+        <li>Bootstrap Icons</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">back to top</a></p>
 
 ---
 
 ### ✨ Featured Styles
 
-The collection covers a wide spectrum of design trends. Below is a summary of the styles you can explore in the live demo.
+The collection covers a wide spectrum of design trends, from minimalist to brutalist aesthetics.
 
 | Style               | Style               | Style               |
 | :------------------ | :------------------ | :------------------ |
 | Neumorphism         | Glassmorphism       | Glitch Effect       |
-| Claymorphism        | Aurora UI           | Brutalism           |
+| Claymorphism        | Aurora UI           | Brutism           |
 | Material Design     | Flat Design         | Cyberpunk / Hacker  |
 | Liquid / Blob       | Cutout Text         | Text Stroke         |
 | 3D Transform        | Sketchy / Doodled   | Gradient Text       |
@@ -58,33 +75,25 @@ The collection covers a wide spectrum of design trends. Below is a summary of th
 | Button Push Effect  | Vintage / Retro     | Minimalism          |
 | Text Focus Effect   |                     |                     |
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">back to top</a></p>
 
 ---
 
 ### 🛠️ Getting Started
 
-To get a local copy up and running, simply clone the repository and open the `index.html` file in your browser.
+To run this project locally, simply clone the repository and open the `index.html` file.
 
 ```sh
-# 1. Clone the repository
-git clone https://github.com/[ВАШЕ_ІМ'Я]/[НАЗВА_РЕПОЗИТОРІЮ].git
+# Clone this repository
+git clone https://github.com/qrasickz-prog/qrasickz-prog.github.io.git
 
-# 2. Navigate into the directory
-cd [НАЗВА_РЕПОЗИТОРІЮ]
+# Navigate to the project directory
+cd qrasickz-prog.github.io
 
-# 3. Open the file
+# Open the main file in your browser
 start index.html
-```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right"><a href="#top">back to top</a></p>
+code
+Code
 ---
-
-### 📬 Contact & License
-
-This project is open source and distributed under the **MIT License**. See the `LICENSE.txt` file for more details.
-
-**[Ваше Ім'я]** — [ваша@пошта.com] — [посилання на ваш LinkedIn або Telegram]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+---
