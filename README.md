@@ -78,21 +78,6 @@ The collection covers a wide spectrum of design trends, from minimalist to bruta
 <p align="right"><a href="#top">back to top</a></p>
 
 ---
-
-### 🛠️ Getting Started
-
-To run this project locally, simply clone the repository and open the `index.html` file.
-
-```sh
-# Clone this repository
-git clone https://github.com/qrasickz-prog/qrasickz-prog.github.io.git
-
-# Navigate to the project directory
-cd qrasickz-prog.github.io
-
-# Open the main file in your browser
-start index.html
-<p align="right"><a href="#top">back to top</a></p>
 code
 Code
 ---
