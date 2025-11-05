@@ -20,7 +20,6 @@
 
   <p>
     <img src="https://img.shields.io/badge/Status-Live_&_Online-brightgreen?style=flat" alt="Status">
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License">
     <img src="https://img.shields.io/github/stars/qrasickz-prog/qrasickz-prog.github.io?style=flat&logo=github" alt="Stars">
   </p>
 </div>
