@@ -78,7 +78,3 @@ The collection covers a wide spectrum of design trends, from minimalist to bruta
 <p align="right"><a href="#top">back to top</a></p>
 
 ---
-code
-Code
----
----
